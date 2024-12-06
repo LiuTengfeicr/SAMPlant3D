@@ -1,0 +1,914 @@
+{
+    "brenner": [
+        {
+            "filename": "22.jpg",
+            "score": 2221841728
+        },
+        {
+            "filename": "26.jpg",
+            "score": 1197138071
+        },
+        {
+            "filename": "10.jpg",
+            "score": 1014145203
+        },
+        {
+            "filename": "4.jpg",
+            "score": 983022240
+        },
+        {
+            "filename": "5.jpg",
+            "score": 960840009
+        },
+        {
+            "filename": "6.jpg",
+            "score": 958495580
+        },
+        {
+            "filename": "23.jpg",
+            "score": 947926715
+        },
+        {
+            "filename": "1.jpg",
+            "score": 938067382
+        },
+        {
+            "filename": "12.jpg",
+            "score": 909461858
+        },
+        {
+            "filename": "21.jpg",
+            "score": 874301841
+        },
+        {
+            "filename": "9.jpg",
+            "score": 870595025
+        },
+        {
+            "filename": "24.jpg",
+            "score": 867812234
+        },
+        {
+            "filename": "18.jpg",
+            "score": 861590568
+        },
+        {
+            "filename": "7.jpg",
+            "score": 856966687
+        },
+        {
+            "filename": "25.jpg",
+            "score": 853958010
+        },
+        {
+            "filename": "16.jpg",
+            "score": 846811196
+        },
+        {
+            "filename": "20.jpg",
+            "score": 844766960
+        },
+        {
+            "filename": "19.jpg",
+            "score": 833987416
+        },
+        {
+            "filename": "17.jpg",
+            "score": 827838367
+        },
+        {
+            "filename": "8.jpg",
+            "score": 820074078
+        },
+        {
+            "filename": "2.jpg",
+            "score": 807285939
+        },
+        {
+            "filename": "3.jpg",
+            "score": 805921375
+        },
+        {
+            "filename": "13.jpg",
+            "score": 786756562
+        },
+        {
+            "filename": "27.jpg",
+            "score": 782693151
+        },
+        {
+            "filename": "15.jpg",
+            "score": 743352592
+        },
+        {
+            "filename": "11.jpg",
+            "score": 743041986
+        },
+        {
+            "filename": "28.jpg",
+            "score": 739761528
+        },
+        {
+            "filename": "14.jpg",
+            "score": 731927173
+        }
+    ],
+    "Laplacian": [
+        {
+            "filename": "22.jpg",
+            "score": 1058.0472199911196
+        },
+        {
+            "filename": "26.jpg",
+            "score": 494.6592274093099
+        },
+        {
+            "filename": "4.jpg",
+            "score": 240.8858997308776
+        },
+        {
+            "filename": "10.jpg",
+            "score": 231.64614582884076
+        },
+        {
+            "filename": "6.jpg",
+            "score": 219.73236905859443
+        },
+        {
+            "filename": "23.jpg",
+            "score": 218.07620443960883
+        },
+        {
+            "filename": "18.jpg",
+            "score": 214.1158593479233
+        },
+        {
+            "filename": "16.jpg",
+            "score": 202.52729186236832
+        },
+        {
+            "filename": "5.jpg",
+            "score": 201.74830573259118
+        },
+        {
+            "filename": "12.jpg",
+            "score": 201.63122989726816
+        },
+        {
+            "filename": "25.jpg",
+            "score": 197.63004908523322
+        },
+        {
+            "filename": "19.jpg",
+            "score": 197.50077475652296
+        },
+        {
+            "filename": "1.jpg",
+            "score": 191.92907410216011
+        },
+        {
+            "filename": "20.jpg",
+            "score": 191.1239046381448
+        },
+        {
+            "filename": "7.jpg",
+            "score": 190.72952143630332
+        },
+        {
+            "filename": "9.jpg",
+            "score": 190.4604943275235
+        },
+        {
+            "filename": "17.jpg",
+            "score": 189.68677702671496
+        },
+        {
+            "filename": "21.jpg",
+            "score": 188.96920510827522
+        },
+        {
+            "filename": "8.jpg",
+            "score": 187.6745295980494
+        },
+        {
+            "filename": "27.jpg",
+            "score": 181.37653995087132
+        },
+        {
+            "filename": "24.jpg",
+            "score": 180.111191384146
+        },
+        {
+            "filename": "2.jpg",
+            "score": 163.16781099474778
+        },
+        {
+            "filename": "3.jpg",
+            "score": 163.0531688811581
+        },
+        {
+            "filename": "13.jpg",
+            "score": 162.7279384893841
+        },
+        {
+            "filename": "15.jpg",
+            "score": 158.27170457625166
+        },
+        {
+            "filename": "14.jpg",
+            "score": 155.01041083756144
+        },
+        {
+            "filename": "11.jpg",
+            "score": 151.41257373074606
+        },
+        {
+            "filename": "28.jpg",
+            "score": 149.12477166312232
+        }
+    ],
+    "SMD": [
+        {
+            "filename": "22.jpg",
+            "score": 36902959.0
+        },
+        {
+            "filename": "26.jpg",
+            "score": 29109030.0
+        },
+        {
+            "filename": "4.jpg",
+            "score": 27048433.0
+        },
+        {
+            "filename": "10.jpg",
+            "score": 25782648.0
+        },
+        {
+            "filename": "6.jpg",
+            "score": 25773544.0
+        },
+        {
+            "filename": "23.jpg",
+            "score": 25619190.0
+        },
+        {
+            "filename": "16.jpg",
+            "score": 25530163.0
+        },
+        {
+            "filename": "18.jpg",
+            "score": 25260515.0
+        },
+        {
+            "filename": "5.jpg",
+            "score": 24822321.0
+        },
+        {
+            "filename": "25.jpg",
+            "score": 24811456.0
+        },
+        {
+            "filename": "12.jpg",
+            "score": 24696948.0
+        },
+        {
+            "filename": "17.jpg",
+            "score": 24513786.0
+        },
+        {
+            "filename": "24.jpg",
+            "score": 24135694.0
+        },
+        {
+            "filename": "1.jpg",
+            "score": 24026827.0
+        },
+        {
+            "filename": "21.jpg",
+            "score": 24025042.0
+        },
+        {
+            "filename": "27.jpg",
+            "score": 23865613.0
+        },
+        {
+            "filename": "9.jpg",
+            "score": 23808037.0
+        },
+        {
+            "filename": "19.jpg",
+            "score": 23784400.0
+        },
+        {
+            "filename": "20.jpg",
+            "score": 23762939.0
+        },
+        {
+            "filename": "7.jpg",
+            "score": 23663915.0
+        },
+        {
+            "filename": "8.jpg",
+            "score": 23479207.0
+        },
+        {
+            "filename": "2.jpg",
+            "score": 23115121.0
+        },
+        {
+            "filename": "3.jpg",
+            "score": 23106880.0
+        },
+        {
+            "filename": "15.jpg",
+            "score": 22876374.0
+        },
+        {
+            "filename": "11.jpg",
+            "score": 22437581.0
+        },
+        {
+            "filename": "13.jpg",
+            "score": 22430956.0
+        },
+        {
+            "filename": "14.jpg",
+            "score": 22392417.0
+        },
+        {
+            "filename": "28.jpg",
+            "score": 22349550.0
+        }
+    ],
+    "SMD2": [
+        {
+            "filename": "22.jpg",
+            "score": 247959811.0
+        },
+        {
+            "filename": "26.jpg",
+            "score": 188943795.0
+        },
+        {
+            "filename": "6.jpg",
+            "score": 184495575.0
+        },
+        {
+            "filename": "4.jpg",
+            "score": 182032483.0
+        },
+        {
+            "filename": "10.jpg",
+            "score": 180252960.0
+        },
+        {
+            "filename": "12.jpg",
+            "score": 170276942.0
+        },
+        {
+            "filename": "23.jpg",
+            "score": 169097551.0
+        },
+        {
+            "filename": "18.jpg",
+            "score": 168584927.0
+        },
+        {
+            "filename": "7.jpg",
+            "score": 167714654.0
+        },
+        {
+            "filename": "16.jpg",
+            "score": 164455787.0
+        },
+        {
+            "filename": "25.jpg",
+            "score": 162669776.0
+        },
+        {
+            "filename": "8.jpg",
+            "score": 161657349.0
+        },
+        {
+            "filename": "5.jpg",
+            "score": 161602710.0
+        },
+        {
+            "filename": "9.jpg",
+            "score": 160282234.0
+        },
+        {
+            "filename": "19.jpg",
+            "score": 158495673.0
+        },
+        {
+            "filename": "1.jpg",
+            "score": 157807295.0
+        },
+        {
+            "filename": "20.jpg",
+            "score": 156061931.0
+        },
+        {
+            "filename": "17.jpg",
+            "score": 153967603.0
+        },
+        {
+            "filename": "21.jpg",
+            "score": 153512984.0
+        },
+        {
+            "filename": "27.jpg",
+            "score": 150781351.0
+        },
+        {
+            "filename": "24.jpg",
+            "score": 149471838.0
+        },
+        {
+            "filename": "13.jpg",
+            "score": 147248302.0
+        },
+        {
+            "filename": "2.jpg",
+            "score": 142247455.0
+        },
+        {
+            "filename": "3.jpg",
+            "score": 142106725.0
+        },
+        {
+            "filename": "11.jpg",
+            "score": 138819336.0
+        },
+        {
+            "filename": "28.jpg",
+            "score": 138251721.0
+        },
+        {
+            "filename": "14.jpg",
+            "score": 135675051.0
+        },
+        {
+            "filename": "15.jpg",
+            "score": 135141871.0
+        }
+    ],
+    "variance": [
+        {
+            "filename": "4.jpg",
+            "score": 21530917143.039818
+        },
+        {
+            "filename": "22.jpg",
+            "score": 20814450046.97626
+        },
+        {
+            "filename": "23.jpg",
+            "score": 20703132360.428688
+        },
+        {
+            "filename": "5.jpg",
+            "score": 20596453514.949673
+        },
+        {
+            "filename": "2.jpg",
+            "score": 19940965599.7529
+        },
+        {
+            "filename": "3.jpg",
+            "score": 19924957502.859837
+        },
+        {
+            "filename": "24.jpg",
+            "score": 19743792238.26393
+        },
+        {
+            "filename": "21.jpg",
+            "score": 19628803559.33319
+        },
+        {
+            "filename": "6.jpg",
+            "score": 19538846620.76435
+        },
+        {
+            "filename": "10.jpg",
+            "score": 19307349046.06001
+        },
+        {
+            "filename": "16.jpg",
+            "score": 19276471689.265408
+        },
+        {
+            "filename": "28.jpg",
+            "score": 19245265941.01163
+        },
+        {
+            "filename": "11.jpg",
+            "score": 19212850053.009052
+        },
+        {
+            "filename": "25.jpg",
+            "score": 19088756899.227303
+        },
+        {
+            "filename": "20.jpg",
+            "score": 18747715641.369358
+        },
+        {
+            "filename": "27.jpg",
+            "score": 18718172111.405098
+        },
+        {
+            "filename": "26.jpg",
+            "score": 18703026636.029232
+        },
+        {
+            "filename": "19.jpg",
+            "score": 18033245948.76237
+        },
+        {
+            "filename": "18.jpg",
+            "score": 17935291586.295483
+        },
+        {
+            "filename": "17.jpg",
+            "score": 17879278825.56489
+        },
+        {
+            "filename": "9.jpg",
+            "score": 17569740887.27454
+        },
+        {
+            "filename": "1.jpg",
+            "score": 17444277355.214073
+        },
+        {
+            "filename": "15.jpg",
+            "score": 17433204701.430496
+        },
+        {
+            "filename": "8.jpg",
+            "score": 17376854250.2741
+        },
+        {
+            "filename": "7.jpg",
+            "score": 17374917443.25028
+        },
+        {
+            "filename": "14.jpg",
+            "score": 16609812386.30573
+        },
+        {
+            "filename": "12.jpg",
+            "score": 16540415589.396547
+        },
+        {
+            "filename": "13.jpg",
+            "score": 15604108526.695728
+        }
+    ],
+    "energy": [
+        {
+            "filename": "22.jpg",
+            "score": 904951249283
+        },
+        {
+            "filename": "26.jpg",
+            "score": 645135954831
+        },
+        {
+            "filename": "10.jpg",
+            "score": 611854239070
+        },
+        {
+            "filename": "6.jpg",
+            "score": 566257927033
+        },
+        {
+            "filename": "23.jpg",
+            "score": 550006906497
+        },
+        {
+            "filename": "7.jpg",
+            "score": 549951104516
+        },
+        {
+            "filename": "1.jpg",
+            "score": 543913360273
+        },
+        {
+            "filename": "24.jpg",
+            "score": 539466602984
+        },
+        {
+            "filename": "12.jpg",
+            "score": 526935621230
+        },
+        {
+            "filename": "19.jpg",
+            "score": 509450240439
+        },
+        {
+            "filename": "4.jpg",
+            "score": 505813288115
+        },
+        {
+            "filename": "18.jpg",
+            "score": 501187149667
+        },
+        {
+            "filename": "25.jpg",
+            "score": 500072327798
+        },
+        {
+            "filename": "9.jpg",
+            "score": 499465545134
+        },
+        {
+            "filename": "13.jpg",
+            "score": 496389842268
+        },
+        {
+            "filename": "8.jpg",
+            "score": 489236463065
+        },
+        {
+            "filename": "27.jpg",
+            "score": 472324311651
+        },
+        {
+            "filename": "5.jpg",
+            "score": 464052128052
+        },
+        {
+            "filename": "20.jpg",
+            "score": 458465500359
+        },
+        {
+            "filename": "21.jpg",
+            "score": 440629487654
+        },
+        {
+            "filename": "16.jpg",
+            "score": 431483572255
+        },
+        {
+            "filename": "17.jpg",
+            "score": 420944152989
+        },
+        {
+            "filename": "14.jpg",
+            "score": 355226673379
+        },
+        {
+            "filename": "3.jpg",
+            "score": 355007450599
+        },
+        {
+            "filename": "2.jpg",
+            "score": 351402969903
+        },
+        {
+            "filename": "28.jpg",
+            "score": 340578068739
+        },
+        {
+            "filename": "11.jpg",
+            "score": 339960057912
+        },
+        {
+            "filename": "15.jpg",
+            "score": 329466124105
+        }
+    ],
+    "Vollath": [
+        {
+            "filename": "4.jpg",
+            "score": 21341352249.608994
+        },
+        {
+            "filename": "23.jpg",
+            "score": 20520028242.728516
+        },
+        {
+            "filename": "5.jpg",
+            "score": 20414672583.069588
+        },
+        {
+            "filename": "22.jpg",
+            "score": 19920525645.481354
+        },
+        {
+            "filename": "2.jpg",
+            "score": 19793468957.262173
+        },
+        {
+            "filename": "3.jpg",
+            "score": 19777644712.159477
+        },
+        {
+            "filename": "24.jpg",
+            "score": 19579586469.460426
+        },
+        {
+            "filename": "21.jpg",
+            "score": 19460087315.903748
+        },
+        {
+            "filename": "6.jpg",
+            "score": 19356858602.10566
+        },
+        {
+            "filename": "16.jpg",
+            "score": 19115602356.140697
+        },
+        {
+            "filename": "10.jpg",
+            "score": 19113261631.679497
+        },
+        {
+            "filename": "28.jpg",
+            "score": 19112459200.85397
+        },
+        {
+            "filename": "11.jpg",
+            "score": 19078105039.422535
+        },
+        {
+            "filename": "25.jpg",
+            "score": 18925047117.528133
+        },
+        {
+            "filename": "20.jpg",
+            "score": 18583574886.84155
+        },
+        {
+            "filename": "27.jpg",
+            "score": 18568875677.32814
+        },
+        {
+            "filename": "26.jpg",
+            "score": 18293571234.700233
+        },
+        {
+            "filename": "19.jpg",
+            "score": 17870349567.04656
+        },
+        {
+            "filename": "18.jpg",
+            "score": 17767372150.851437
+        },
+        {
+            "filename": "17.jpg",
+            "score": 17721009336.23483
+        },
+        {
+            "filename": "9.jpg",
+            "score": 17404631944.92709
+        },
+        {
+            "filename": "15.jpg",
+            "score": 17295054523.14907
+        },
+        {
+            "filename": "1.jpg",
+            "score": 17271245309.027756
+        },
+        {
+            "filename": "8.jpg",
+            "score": 17219066331.121143
+        },
+        {
+            "filename": "7.jpg",
+            "score": 17212329844.353382
+        },
+        {
+            "filename": "14.jpg",
+            "score": 16476446363.593203
+        },
+        {
+            "filename": "12.jpg",
+            "score": 16370688199.198145
+        },
+        {
+            "filename": "13.jpg",
+            "score": 15461553977.254036
+        }
+    ],
+    "entropy": [
+        {
+            "filename": "22.jpg",
+            "score": 3.421424148414156
+        },
+        {
+            "filename": "23.jpg",
+            "score": 3.399064594198732
+        },
+        {
+            "filename": "16.jpg",
+            "score": 3.389115788648561
+        },
+        {
+            "filename": "24.jpg",
+            "score": 3.3597076098177614
+        },
+        {
+            "filename": "4.jpg",
+            "score": 3.355982636053399
+        },
+        {
+            "filename": "25.jpg",
+            "score": 3.353225078751453
+        },
+        {
+            "filename": "10.jpg",
+            "score": 3.3505853783206607
+        },
+        {
+            "filename": "17.jpg",
+            "score": 3.3307683100614236
+        },
+        {
+            "filename": "18.jpg",
+            "score": 3.3247649940084925
+        },
+        {
+            "filename": "5.jpg",
+            "score": 3.297720740611049
+        },
+        {
+            "filename": "21.jpg",
+            "score": 3.2938941745410037
+        },
+        {
+            "filename": "3.jpg",
+            "score": 3.265355894882343
+        },
+        {
+            "filename": "2.jpg",
+            "score": 3.2635339482876073
+        },
+        {
+            "filename": "6.jpg",
+            "score": 3.2573453392924283
+        },
+        {
+            "filename": "26.jpg",
+            "score": 3.2510281862602484
+        },
+        {
+            "filename": "1.jpg",
+            "score": 3.2449798026681127
+        },
+        {
+            "filename": "9.jpg",
+            "score": 3.2427084936367425
+        },
+        {
+            "filename": "19.jpg",
+            "score": 3.2346347444398282
+        },
+        {
+            "filename": "15.jpg",
+            "score": 3.2282782959611813
+        },
+        {
+            "filename": "12.jpg",
+            "score": 3.2250101276890826
+        },
+        {
+            "filename": "20.jpg",
+            "score": 3.22365523537995
+        },
+        {
+            "filename": "27.jpg",
+            "score": 3.222163346421785
+        },
+        {
+            "filename": "28.jpg",
+            "score": 3.1987975462211717
+        },
+        {
+            "filename": "11.jpg",
+            "score": 3.1973355258423495
+        },
+        {
+            "filename": "8.jpg",
+            "score": 3.1564248544155546
+        },
+        {
+            "filename": "14.jpg",
+            "score": 3.1540524034298563
+        },
+        {
+            "filename": "7.jpg",
+            "score": 3.148796105637309
+        },
+        {
+            "filename": "13.jpg",
+            "score": 3.13783412905949
+        }
+    ]
+}
