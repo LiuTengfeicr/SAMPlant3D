@@ -9,4 +9,4 @@ Setting
 
 See the SAM project for specific environment configurations: [SAM](https://github.com/facebookresearch/segment-anything.git)
 
-Download [ViT-H SAM model](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth) and place it under [/SAM/model](/SAM/model)
+Download [ViT-H SAM model](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth) and place it under [/SAM/model](./SAM/model)
