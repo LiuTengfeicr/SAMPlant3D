@@ -5,7 +5,7 @@ SAMPlant3D (or SAMPoint) for single-plant segmentation of population plants
 This project is related to my research paper, which is in the process of being reviewed and not yet officially published. Once the paper is published, I will update this page with relevant links and citations.
 ## Dataset
 
-For readers' convenience, we provide a reduced version of the dataset, i.e., 50 point cloud data: download 
+For readers' convenience, we provide a reduced version of the dataset, i.e., 50 point cloud data: [download](https://www.kaggle.com/api/v1/datasets/download/tengfeiliu333/cotton) 
 ## Setting
 
 See the SAM project for specific environment configurations: [SAM](https://github.com/facebookresearch/segment-anything.git)
