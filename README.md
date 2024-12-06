@@ -1,6 +1,8 @@
 There is a method for splitting point clouds using SAM（Revisions）
 SAMPlant3D (or SAMPoint) for single-plant segmentation of population plants
 
+## Thesis statement
+This project is related to my research paper, which is in the process of being reviewed and not yet officially published. Once the paper is published, I will update this page with relevant links and citations.
 ## Dataset
 
 For readers' convenience, we provide a reduced version of the dataset, i.e., 50 point cloud data: download 
