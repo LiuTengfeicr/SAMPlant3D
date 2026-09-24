@@ -58,7 +58,7 @@ Main Parameters
 --measure <Whether to choose to calculate phenotype parameters, default is False>
 ```
 ## Results
-```measure``` saves the results of the run, including phenotypic parameters, iou, pre and other metrics, ```pointcloud``` output saves the segmented point cloud, ```sammask``` and ```sampic``` save the path to the masked image for the output.
+```measure``` saves the results of the run, including phenotypic parameters, pre and other metrics, ```pointcloud``` output saves the segmented point cloud, ```sammask``` and ```sampic``` save the path to the masked image for the output.
 
 ## Additional notes
 ```pic_check``` file for the picture screening algorithm, run ```picture_check.py``` to calculate the clarity of the picture, run ```picture_check_test.py``` to draw a picture clarity line graph, so that you can screen blurred pictures, of which the three ```json``` files for the results of the preservation of the example
